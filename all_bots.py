@@ -37,7 +37,7 @@ REACTION_EMOJIS = [
     "😘",
 ]
 
-# သင့်မှာရှိတဲ့ Bot Token တွေကို ဒီ List ထဲမှာ ထည့်ပါ
+# သင့်မှာရှိတဲ့ Bot Token တွေ
 BOT_TOKENS = [
     "8533233484:AAEUs_NARjPJ1O4akKH2tHMmmpWqiIid-Lc",
     "8883643062:AAHecUg1GY264VnQuHIBX2ln30St2kJ46PU",
@@ -50,7 +50,7 @@ BOT_TOKENS = [
 
 
 # ==========================================
-# Render အတွက် Port ဖွင့်ပေးမယ့် Mini Web Server
+# Render အတွက် Port 10000 ဖွင့်ပေးမယ့် Mini Web Server
 # ==========================================
 PORT = 10000
 
